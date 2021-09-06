@@ -1,2 +1,5 @@
 //arquivos do node
 node_modules
+
+//dotenv
+.env
